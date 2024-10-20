@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mansavigarg/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/mansavigarg/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mansavigarg/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mansavigarg/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mansavigarg/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -41,5 +43,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mansavigarg/LeetCode/tree/master/0048-rotate-image) |
 | [2737-row-with-maximum-ones](https://github.com/mansavigarg/LeetCode/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
