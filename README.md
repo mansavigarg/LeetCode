@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/mansavigarg/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mansavigarg/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mansavigarg/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,8 +23,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mansavigarg/LeetCode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mansavigarg/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
