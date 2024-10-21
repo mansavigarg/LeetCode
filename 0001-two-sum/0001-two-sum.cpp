@@ -16,5 +16,6 @@ public:
             }
         }
         return arr;
+        // we can also use hasing for the optimal solution
     }
 };
