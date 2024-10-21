@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mansavigarg/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/mansavigarg/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/mansavigarg/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mansavigarg/LeetCode/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mansavigarg/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
