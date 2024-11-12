@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mansavigarg/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mansavigarg/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/mansavigarg/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/mansavigarg/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mansavigarg/LeetCode/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mansavigarg/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mansavigarg/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
