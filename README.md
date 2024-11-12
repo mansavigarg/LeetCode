@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mansavigarg/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/mansavigarg/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mansavigarg/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mansavigarg/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/mansavigarg/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mansavigarg/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
