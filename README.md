@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mansavigarg/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mansavigarg/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/mansavigarg/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mansavigarg/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2737-row-with-maximum-ones](https://github.com/mansavigarg/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/mansavigarg/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mansavigarg/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mansavigarg/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/mansavigarg/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mansavigarg/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
